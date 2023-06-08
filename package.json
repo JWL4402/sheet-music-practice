@@ -1,0 +1,19 @@
+{
+  "name": "sheet-music-practice",
+  "version": "0.0.1",
+  "description": "A simple webpage to practice sheet music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWL4402/sheet-music-practice.git"
+  },
+  "author": "jwl",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JWL4402/sheet-music-practice/issues"
+  },
+  "homepage": "https://github.com/JWL4402/sheet-music-practice#readme"
+}
